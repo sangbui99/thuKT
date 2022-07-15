@@ -1,2 +1,2 @@
 # thuKT
-khong co gi
+khong
